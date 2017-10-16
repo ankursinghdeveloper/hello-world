@@ -10,7 +10,7 @@ public class TestWebService {
 		
 	}*/
 	public String hello(String name){
-		//Test
+		//Testing
 		return "Hello "+name;
 	}
 }
